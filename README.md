@@ -40,7 +40,7 @@ Overall, the project aims to provide a data-driven understanding of inflation dy
 
 ## 📊 CPI Inflation Trend (YoY)
 
-![YoY Chart](Y-O-Y Analysis.png)
+![YoY Chart](yoy.png)
 
 Inflation peaked in 2022 due to a sharp rise in global oil prices following the Russia–Ukraine war, increasing fuel and transportation costs. Supply chain disruptions, a weaker rupee, and heatwaves further pushed food prices higher.
 
@@ -48,7 +48,7 @@ Inflation peaked in 2022 due to a sharp rise in global oil prices following the 
 
 ## 📉 Month-on-Month Inflation
 
-![MoM Chart](Inflation MOM.png)
+![MoM Chart](mom.png)
 
 This chart highlights short-term fluctuations in inflation, showing periods of increase and decline driven mainly by changes in food prices.
 
@@ -56,7 +56,7 @@ This chart highlights short-term fluctuations in inflation, showing periods of i
 
 ## 🥧 Category Contribution
 
-![Category Chart](CPI contribution.png)
+![Category Chart](category.png)
 
 Food & Beverages contributed the highest share to inflation, indicating its major impact on overall CPI.
 
