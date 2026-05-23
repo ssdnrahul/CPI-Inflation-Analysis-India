@@ -74,7 +74,7 @@ Food & Beverages contributed the highest share to inflation, indicating its majo
 
 ## 📂 Dataset
 
-* [CPI Case-study.xlsx](CPI Case-study.xlsx)
+* [CPI Case-study.xlsx](CPI%20Case-study.xlsx)
 
 ---
 
